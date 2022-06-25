@@ -1,0 +1,5 @@
+
+# restore wallpaper during subsequent sessions
+nitrogen --restore &
+# run picom compositor
+picom -f &
