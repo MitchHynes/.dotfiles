@@ -76,3 +76,5 @@ nnoremap <leader>pv :Vex<CR>
 nnoremap <leader><CR> :so ~/.config/nvim/init.vim<CR>
 nnoremap <leader>g :GFiles<CR>
 nnoremap <leader>f :Files<CR> 
+" copy current file to system clipboard
+nnoremap <leader>c :!xclip -sel clip < %<CR><CR>
