@@ -100,4 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias v="nvim"
+alias connectmacvpn="~/anyconnect-linux64-4.10.04065/vpn/vpn -s connect sslvpn.mcmaster.ca"
+alias disconnectmacvpn="~/anyconnect-linux64-4.10.04065/vpn/vpn -s disconnect sslvpn.mcmaster.ca"
+
 #
