@@ -102,6 +102,6 @@ source $ZSH/oh-my-zsh.sh
 alias v="nvim"
 alias connectmacvpn="~/anyconnect-linux64-4.10.04065/vpn/vpn -s connect sslvpn.mcmaster.ca"
 alias disconnectmacvpn="~/anyconnect-linux64-4.10.04065/vpn/vpn -s disconnect sslvpn.mcmaster.ca"
-alias ssh = 'TERM=xterm ssh'
+alias ssh='TERM=xterm ssh'
 
 #
